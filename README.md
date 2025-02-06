@@ -1,21 +1,14 @@
 ## Overview
 
-A Python web scraper for extracting product information from Waitrose website. Please note that website structure may change and updates may need to be done to make this executable.
+A conversational price comparison app, with speech to text as input and text to speech as output. Just say the product name and the app will return the price from 2 major UK supermarkets. 
 
-## Features
-
-Scrape product titles
-Extract prices
-Collect product links
-Installation
-
-pip install -r requirements.txt
 ## How to use
 
 Install requirements.txt on your virtual environment
 Run waitrosescraper.py
 Run test_webscraping.py
-Dependencies:
+
+## Dependencies:
 
 requests beautifulsoup4 pandas
 
