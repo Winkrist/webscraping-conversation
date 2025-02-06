@@ -4,13 +4,9 @@ A conversational price comparison app, with speech to text as input and text to 
 
 ## How to use
 
-Install requirements.txt on your virtual environment
-Run waitrosescraper.py
-Run test_webscraping.py
-
 ## Dependencies:
 
-requests beautifulsoup4 pandas
+requests, beautifulsoup4, pandas, selenium & webdriver, speech_recognition, pyaudio, fuzzywuzzy, pyttsx3, yake, numpy
 
 ## Legal Notice
 
